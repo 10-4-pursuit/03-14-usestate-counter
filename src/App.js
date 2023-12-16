@@ -9,7 +9,7 @@ function App() {
   return (
     <div>
       <StatefulCounter />
-     {/* <button onClick={() => setCount(count + 1)}>Add 1</button> */}
+    
     </div>
   );
 }
